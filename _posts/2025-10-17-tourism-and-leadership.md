@@ -4,7 +4,7 @@ title: "Tourism and leadership"
 date: 2025-10-17 00:00:00 +0000
 ---
 
-![Edgar Linchevskiy. Psychological climate in a group of tourists]({{ "/assets/images/2025-10-17-linchevskiy.jpg" | relative_url }})
+<img src="{{ '/assets/images/2025-10-17-linchevskiy.jpg' | relative_url }}" alt="Edgar Linchevskiy. Psychological climate in a group of tourists" style="max-height:300px; width:auto; display:block;" />
 
 Best book on people management that I ever read. It is in Russian and was never translated.
 
