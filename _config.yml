@@ -1,0 +1,12 @@
+title: "Yuriy Lozhkin"
+email: ""
+description: "Personal blog"
+baseurl: "" # no sub-URL for user site
+url: "https://yuriy-lo.github.io"
+theme: minima
+plugins:
+  - jekyll-feed
+markdown: kramdown
+
+# License note for site footer or metadata (human-readable)
+license: "CC BY 4.0"
