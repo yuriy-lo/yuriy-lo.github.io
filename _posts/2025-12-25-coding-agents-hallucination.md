@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Coding agents: handle hallucinations"
+title: "Hallucinations and coding agents"
 date: 2025-12-25 00:00:00 +0000
 ---
 
